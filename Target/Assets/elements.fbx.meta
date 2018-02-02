@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: e95db17a5ffdab346a1db9485e6d8e90
+timeCreated: 1517008091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boomerang1
+    100002: Boomerang_1_1
+    100004: //RootNode
+    100006: G_2_L__2_1_QT__Soda_Pop_Bottle1
+    100008: G_2_X_4_Lego_Brick1
+    100010: Group1
+    100012: Group_74_1
+    100014: Josh
+    100016: Mesh1
+    100018: Mesh2
+    100020: Mesh3
+    100022: Mesh4
+    100024: Mesh5
+    400000: boomerang1
+    400002: Boomerang_1_1
+    400004: //RootNode
+    400006: G_2_L__2_1_QT__Soda_Pop_Bottle1
+    400008: G_2_X_4_Lego_Brick1
+    400010: Group1
+    400012: Group_74_1
+    400014: Josh
+    400016: Mesh1
+    400018: Mesh2
+    400020: Mesh3
+    400022: Mesh4
+    400024: Mesh5
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: ab3a2615d0ea11e4bb3ca5684d694307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: b02e75be787cd914cbd54c3fbda6faa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: b21d81290f4af1b48bfa63bf9a6de86a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Beard
+    second: {fileID: 2100000, guid: 9a6c3dc29ba776349ae3a8161a7b215b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Boots
+    second: {fileID: 2100000, guid: 360023d1324630743aa2246f2a800659, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Boots_Sole
+    second: {fileID: 2100000, guid: b46a9d6e27fc4304a890b97758bb8df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Hair
+    second: {fileID: 2100000, guid: 239ef86d2129ba548935773be1d5d7f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Pants
+    second: {fileID: 2100000, guid: 177dc996a0a6157438dfdf954f14f410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Shirt_01
+    second: {fileID: 2100000, guid: c636e4013297faa4795d847cfe39a801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Shirt_02
+    second: {fileID: 2100000, guid: 53a4ebfbad5fdb6438b564e7914f3a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Josh_Skin
+    second: {fileID: 2100000, guid: bceac49deb6deaf4eb4ac7c5f72acf00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0000
+    second: {fileID: 2100000, guid: b2b7ae41a345a7c41ba6f19fc1ff38f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_OSB
+    second: {fileID: 2100000, guid: bfbe67724dfc566498255c2e39cbecde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Translucent_Glass_Gray_1
+    second: {fileID: 2100000, guid: cfbef30901d56814c946d030e0d04700, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
